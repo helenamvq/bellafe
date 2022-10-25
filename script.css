@@ -1,0 +1,161 @@
+.menu-principal {
+    background-color: #B0E0E6;
+    height: 100px;
+}
+
+.redes-sociais ul li {
+    margin-left: 18px;
+    display: inline-block;
+    list-style: none;
+}
+
+#batata {
+    width: 15%;
+    float: right;
+    margin-right: 40px;
+}
+
+#list {
+    display: flex;
+    list-style: none;
+    padding-top: 50px;
+    right: 40px;
+}
+
+#one {
+    left: 20px;
+}
+
+#two {
+    padding-left: 20px;
+}
+
+#tree {
+    padding-left: 20px;
+}
+
+#navbarNav {
+    display: flex;
+    justify-content: center;
+    margin-left: 3rem;
+}
+
+.menu {
+    background-color: #f8f9fa;
+}
+
+.tabloide {
+    background-color: #B0E0E6;
+    height: 310px;
+    margin-top: 60px;
+}
+
+.tabloide-text {
+    text-align: center;
+    padding-top: 2%;
+
+}
+
+.separator-line {
+    content: "";
+    display: block;
+    height: 0;
+    position: absolute;
+    top: 50%;
+    margin-top: -1px;
+    width: 100%;
+}
+
+hr.dashed {
+    width: 500px;
+    margin-inline: auto;
+    border-top: 3px dashed #000000;
+    margin-top: 22px;
+}
+
+#botao {
+    margin-top: 15px;
+}
+
+h1 {
+    font-family: none;
+    font-style: oblique;
+}
+
+#ofertas {
+    padding-left: 200px;
+}
+
+#carouselExampleControls {
+    max-width: max-content;
+}
+
+.carousel-inner {
+    padding-left: 180px;
+}
+
+#prev {
+    left: 15%;
+}
+
+#next {
+    right: -35px;
+}
+
+.formasDePagamento {
+    background-color: #B0E0E6;
+    height: 440px;
+
+}
+
+#pag {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.nossasLojas {
+    background-color: #B0E0E6;
+    height: 400px;
+}
+
+#lojas {
+    padding-top: 60px;
+    text-align: center;
+
+}
+
+#loja1 {
+    margin-left: 200px;
+    font-size: 22px;
+}
+
+#loja2 {
+    margin-top: -199px;
+    margin left: 740px;
+    font-size: 22px;
+
+}
+
+#lj1 {
+    margin-left: 150px;
+    width: 300px;
+    margin-top: 50px;
+}
+
+#lj2 {
+    margin-left: 150px;
+    width: 300px;
+    margin-top: 50px;
+}
+
+#lj3 {
+    width: 300px;
+    margin-top: 50px;
+    margin-right: 260px;
+    margin-top: -191px;
+}
+
+#lj4 {
+    width: 300px;
+    margin-top: 50px;
+    margin-right: 260px;
